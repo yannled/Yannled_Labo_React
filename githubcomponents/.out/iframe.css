@@ -1,0 +1,38 @@
+#ActionButton{
+    width: 5em;
+    height: 3em;
+}
+
+#Line{
+ width: 100%;
+ border-style: solid;
+ border-width: 1px 1px 1px 1px;
+ padding-right: 5px;
+ padding-left: 5px;
+ height: 3em;
+ list-style: none;
+}
+
+#iconLeft{
+float: left;
+}
+
+#iconRight{
+float: right;
+}
+.inlineButton{
+background: none;
+ border: none;
+}
+
+#List {
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-right: 50px;
+    margin-left: 10px;
+    display: block;
+    list-style: none;
+}
+
+
+/*# sourceMappingURL=iframe.css.map*/
