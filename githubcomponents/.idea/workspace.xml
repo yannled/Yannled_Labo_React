@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6f60e38-bc59-4438-ab69-4ca469f48c01" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
@@ -83,16 +82,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            <state relative-caret-position="435">
+              <caret line="29" column="12" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.out/index.html">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -246,37 +245,6 @@
               <item name="githubcomponents" type="b2602c69:ProjectViewProjectNode" />
               <item name="githubcomponents" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="githubcomponents" type="b2602c69:ProjectViewProjectNode" />
-              <item name="githubcomponents" type="462c0819:PsiDirectoryNode" />
-              <item name=".cache" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="githubcomponents" type="b2602c69:ProjectViewProjectNode" />
-              <item name="githubcomponents" type="462c0819:PsiDirectoryNode" />
-              <item name=".out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="githubcomponents" type="b2602c69:ProjectViewProjectNode" />
-              <item name="githubcomponents" type="462c0819:PsiDirectoryNode" />
-              <item name=".out" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="githubcomponents" type="b2602c69:ProjectViewProjectNode" />
-              <item name="githubcomponents" type="462c0819:PsiDirectoryNode" />
-              <item name=".storybook" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="githubcomponents" type="b2602c69:ProjectViewProjectNode" />
-              <item name="githubcomponents" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="githubcomponents" type="b2602c69:ProjectViewProjectNode" />
-              <item name="githubcomponents" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -346,16 +314,15 @@
       <workItem from="1541926220435" duration="8734000" />
       <workItem from="1542032779975" duration="1325000" />
       <workItem from="1542097651192" duration="1631000" />
-      <workItem from="1542107655482" duration="2376000" />
+      <workItem from="1542107655482" duration="3859000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49936000" />
+    <option name="totallyTimeSpent" value="51419000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="30" width="960" height="1050" extended-state="4" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12059765" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -548,15 +515,15 @@
     <entry file="file://$PROJECT_DIR$/.storybook/config.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.out/index.html">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="12" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
